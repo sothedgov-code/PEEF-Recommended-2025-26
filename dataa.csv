@@ -1,131 +1,132 @@
-S.No.,Name,Gender,Father Name,Domicile,Region
-1,Muhammad Afzaal,Male,Bacha Said,Malakand,KPK (Matric)
-2,Hamza Kamal,Male,Kamal Said,Mardan,KPK (Matric)
-3,Muhammad Tariq,Male,Khan Badshah,Bajaur,KPK (Matric)
-4,Hafsa,Female,Faizan Ahmad,Lakki Marwat,KPK (Matric)
-5,Syed Jawad Ahmad,Male,Imdad Ullah Shah,Lakki Marwat,KPK (Matric)
-6,Husna Bibi,Female,Said Muhammad,Malakand,KPK (Matric)
-7,Sara Siraj,Female,Muhammad Siraj,Charsadda,KPK (Matric)
-8,Muhammad Rasheed,Male,Anwar Iqbal,Lakki Marwat,KPK (Matric)
-9,Mustafa,Male,Sheh Zada,Lakki Marwat,KPK (Matric)
-10,Ibad Ullah,Male,Hazrat Hussain,Alpuri Shangla,KPK (Matric)
-11,Manahil Munir,Female,Muhammad Munir,Chitral Upper,KPK (Matric)
-12,Atta ur Rehman,Male,Muhammad Aslam,Lakki Marwat,KPK (Matric)
-13,Raz Muhammad Khan,Male,Faqeer Muhammad,Dargai Malakand,KPK (Matric)
-14,Abdullah,Male,Muhammad Munir Akhtar,Lakki Marwat,KPK (Matric)
-15,Eshal Nadeem,Female,Nadeem Anwar,Charsadda,KPK (Matric)
-16,Abdur Rahman,Male,Abdul Hamid,Lakki Marwat,KPK (Matric)
-17,Muhammad Aliyan,Male,Hazrat Ali,Lakki Marwat,KPK (Matric)
-18,Nazakat Ullah,Male,Hakim Shah,Lakki Marwat,KPK (Matric)
-19,Hubaib Ahmad ,Male,Nisar Khan,Mardan,KPK (Matric)
-20,Wasiullah Khan,Male,Ihsanullah Khan,Lakki Marwat,KPK (Matric)
-21,Fawad Ullah Khan,Male,Hayat Ullah Khan,Lakki Marwat,KPK (Matric)
-22,Muhammad Ibrahim,Male,Nazir Ahmad,Mardan,KPK (Matric)
-23,Muhammad Rafiq,Male,Arab Khan,Lakki Marwat,KPK (Matric)
-24,Ali Sher,Male,Sher Ali Khan,Nowshera,KPK (Matric)
-25,Muhammad Fawad,Male,Ghulam Dastagir Jan,Lakki Marwat,KPK (Matric)
-26,Musavir Khan,Male,Moatabar Khan,Lakki Marwat,KPK (Matric)
-27,Muhammad Waqar,Male,Muhammad Akbar Khan,Lakki Marwat,KPK (Matric)
-28,Khushboo Begum,Female,Afsar Said,Dargai Malakand,KPK (Matric)
-29,Muhammad Wasif,Male,Muhammad Zarif Khan,Lakki Marwat,KPK (Matric)
-30,Muhammad Talha Nawaz,Male,Haq Nawaz ,Haripur,KPK (Matric)
-31,Shumaila Bibi,Female,Farhad,Charsadda,KPK (Matric)
-32,Roshni Gul,Female,Anber Gul,Charsadda,KPK (Matric)
-33,Kashaf Safdar,Female,Muhammad Safdar Shah,Charsadda,KPK (Matric)
-34,Shayan Sohail,Male,Muhammad Sohail,Peshawar,KPK (Matric)
-35,Syeda Sana Bibi,Female,Imdad Ullah Shah,Lakki Marwat,KPK (Matric)
-36,Muhammad Awais Qarni,Male,Zaki Ullah,Lakki Marwat,KPK (Matric)
-37,Ali Sadiq,Male,Sadiq Khan,Peshawar,KPK (Matric)
-38,Mashal Ghazan,Female,Amir Ghazan,Charsadda,KPK (Matric)
-39,Suffeyan Ahmad,Male,Jamil Ahmad,Abbottabad,KPK (Matric)
-40,Lubna Begum,Male,Shaukat Ali,Charsadda,KPK (Matric)
-41,Umama Sartaj,Female,Sartaj,Tani Charsadda,KPK (Matric)
-42,Mehboob Jalal,Male,Sher Jalal,Chitral,KPK (Matric)
-43,Muhammad Haris,Male,Alamgir Khan,Lakki Marwat,KPK (Matric)
-44,Uzma Bibi,Female,Said Muhammad,Dargai Malakand,KPK (Matric)
-45,Asad Ullah Khan,Male,Ayaz Khan,Lakki Marwat,KPK (Matric)
-46,Muhammad Irshad,Male,Zia ur Rahman,Nowshera,KPK (Matric)
-47,Faizan Ali,Male,Nawab Ali,Lakki Marwat,KPK (Matric)
-48,Asif Siddique,Male,Siddique ur Rahman,Karak,KPK (Matric)
-1,Yaseen Ahmad,Male,Akhtar Ali,Takht Bhai Mardan,KPK (HSSC)
-2,Amna,Female,Sai ur Rehman,Pabbi Nowshera,KPK (HSSC)
-3,Inam Ullah,Male,Bakht Jehan,Alpuri Shangla,KPK (HSSC)
-4,Alyan Khan,Male,Saeed Khan,Malakan,KPK (HSSC)
-5,Muhammad Hanif,Male,Rafi Ullah Khan,Lakki Marwat,KPK (HSSC)
-6,Fasih Ullah,Male,Ihsan Ullah,Lakki Marwat,KPK (HSSC)
-7,Sara Shah,Female,Shah Zul Rahman,Batkhela Malakand,KPK (HSSC)
-8,Muhammad Zakariya,Male,Afsar Ali,Nowshera,KPK (HSSC)
-9,Muhammad Awais Khan,Male,Manzoor Hussain,Batkhela Malakand,KPK (HSSC)
-10,Amir Rahman,Male,Rozi Khan,Buner,KPK (HSSC)
-11,Rafeed Ullah Khan,Male,Ameer Saad Ullah Jan,Kala Khel Bannu,KPK (HSSC)
-12,Abdul Baseer,Male,Liaqat Ali,Barkana Alpuri Shangla,KPK (HSSC)
-13,Sultanat Yar,Male,Muhammad Yar,Adenzai Lower Dir,KPK (HSSC)
-14,Laiba Noor,Female,Noor Muhammad,Swabi,KPK (HSSC)
-15,Muhammad Hubaib,Male,Muhammad Ayaz,Katlang Mardan,KPK (HSSC)
-16,Muhammad Zeeshan,Male,Zir Nawaz Khan,Bannu,KPK (HSSC)
-17,Aiman Qureshi,Female,Shaukat Qureshi,Peshawar,KPK (HSSC)
-18,Waqas Ali,Female,Javed,Mardan,KPK (HSSC)
-19,Aiman,Female,Rovaid Ali,Nowshera,KPK (HSSC)
-20,Jibran Qadeer,Male,Sahib Shah,Khanjar Mardan,KPK (HSSC)
-21,Muhammad Husnain,Male,Akhtar Munir,Lakki Marwat,KPK (HSSC)
-22,Yasir Ali Shah,Male,Rahim Shah,Samar Bagh Dir Lower,KPK (HSSC)
-23,Sana Bibi,Female,Zia ud Din,Lakki Marwat,KPK (HSSC)
-24,Marjan Yousafzai,Female,Noor Bad Shah,Swabi,KPK (HSSC)
-25,Zakir Ullah,Male,Muhammad Saeed,Lakki Marwat,KPK (HSSC)
-26,Yousra Noor,Female,Noor Muhammad,Tangi Charsadda,KPK (HSSC)
-27,Sajid Ullah,Male,Hashim Khan,Lakki Marwat,KPK (HSSC)
-28,Pakeeza Bibi,Female,Mafaz Ali,Swabi,KPK (HSSC)
-29,Abdul Wadood,Male,Ghulam Yaseen,Ghazni Khel Lakki Marwat,KPK (HSSC)
-30,Madeeha Siraj,Female,Muhammad Siraj,Mardan,KPK (HSSC)
-31,Muhammad Shahab,Male,Abdul Wahab,Ghazni Khel Lakki Marwat,KPK (HSSC)
-32,Fiza Amjad,Female,Amjad Ali,Swabi,KPK (HSSC)
-1,Abid Ullah,Male,Sawab Khan,Umar Khel Mohmand,FATA (Matric)
-2,Muhammad Abbas,Male,Zahir Ullah,Mamund Bajaur,FATA (Matric)
-3,Hussain Ahmad,Male,Muhammad Ashfaq,Nawagai Bajaur,FATA (Matric)
-4,Uzair Ahmad,Male,Amir Muhammad,Salarzai Bajaur,FATA (Matric)
-5,Muhammad Jawad,Male,Ibrahim,Khar Bajaur,FATA (Matric)
-6,Adil shah,Male,Said Raham,Mamund Bajaur,FATA (Matric)
-7,Ramazan Khan,Male,Muhammad Said,Khar Bajaur,FATA (Matric)
-8,Sahil Khan,Male,Sher Muhammad,Salarzo Bajaur,FATA (Matric)
-9,Mujtaba Ahmad,Male,Yaqoob Khan,Inayat kalay Mamund Bajaur,FATA (Matric)
-10,Hameed Ullah,Male,Khan Wali,Nawagai Bajaur,FATA (Matric)
-11,Yaseen Anwar,Male,Khan Zada,Khar Bajaur,FATA (Matric)
-12,Awais Khan,Male,Farooq Jan,Mamund Bajaur,FATA (Matric)
-13,Momin Khan,Male,Khan Muhammad,Pashat  Salarzai Bajaur,FATA (Matric)
-14,Abuzar Khan ,Male,Nawab Khan,Shamozo Bajaur,FATA (Matric)
-15,Talha Sabir,Male,Jehangir Khan,Sarra Mena Alizo Bajaur,FATA (Matric)
-16,Wajid Yousaf,Male,Ghulam Yousaf,Nawagai Bajaur,FATA (Matric)
-17,Muhammad Tariq,Male,Nawab,Mamund Bajaur,FATA (Matric)
-18,Zubair Khan,Male,Rozamin Khan,Khar Bajaur,FATA (Matric)
-19,Idrees Khan,Male,Shahid,Nawagai Bajaur,FATA (Matric)
-20,Jawad Yousaf,Male,Ghulam Yousaf,Nawagai Bajaur,FATA (Matric)
-21,Waqas Khan,Male,Anwar Khan,Mamund Bajaur,FATA (Matric)
-22,Fawad Ul Haq,Male,Ihsan Ul Haq,Pashat  Salarzai Bajaur,FATA (Matric)
-23,Zubair Ahmad,Male,Raees Khan,Khar Bajaur,FATA (Matric)
-24,Faheem Khan,Male,Mudir Khan,Nawagai Bajaur,FATA (Matric)
-25,Luqman Zada,Male,Umar Zada,Salarzai Bajaur,FATA (Matric)
-26,Sibghat Ullah,Male,Muhammad Dawood,Nawagai Bajaur,FATA (Matric)
-27,Muhammad Nazir,Male,Mashahoor Khan,Nawagai Bajaur,FATA (Matric)
-28,Ihtisham Khan,Male,Taj Wali Khan,Salarzai Bajaur,FATA (Matric)
-29,Sibghat Ullah,Male,Abdul Wakil,Salarzai Bajaur,FATA (Matric)
-30,Numan Haider,Male,Rahman Ullah,Loi Mamund Bajaur,FATA (Matric)
-1,Hassan Saeed,Male,Gul Rasool,Mamund Bajaur,FATA (HSSC)
-2,Jan Zada,Male,Khoidad Khan,Salarzai Bajaur,FATA (HSSC)
-3,Sohail Khan,Male,Taj Gul,Salarzai Bajaur,FATA (HSSC)
-4,Sulaiman Khan,Male,Muhammad Gul,Khar Bajaur,FATA (HSSC)
-5,Islam ud Din,Male,Usman,Khar Bajaur,FATA (HSSC)
-6,Attaullah,Male,Gul Mula Khan,Khar Bajaur,FATA (HSSC)
-7,Hanif Ullah,Male,Dawood Khan,Salarzai Bajaur,FATA (HSSC)
-8,Abdullah,Male,Gul Bacha,Khar Bajaur,FATA (HSSC)
-9,Umar Farooq,Male,Sahib Gul,Khar Bajaur,FATA (HSSC)
-10,Ihsan Ullah,Male,Saz Mahmood,Barang Bajaur,FATA (HSSC)
-11,Muhammad Fawad,Male,Muhammad Iqbal,Khar Bajaur,FATA (HSSC)
-12,Muhammad Zeeshan,Male,Said Arab Khan,Loi Mamund Bajaur,FATA (HSSC)
-13,Hazrat Bilal,Male,Muhammad Yar Khan,Khar Bajaur,FATA (HSSC)
-14,Maaz ur Rahman,Male,Said Hakim Khan,Khar Bajaur,FATA (HSSC)
-15,Murad Ahmad,Male,Kashar Khan,Salarzai Bajaur,FATA (HSSC)
-16,Sami Ullah,Male,Said Zahir Shah,Khar Bajaur,FATA (HSSC)
-17,Mazhar Ali Shah,Male,Bahadar Shah,Barang Bajaur,FATA (HSSC)
-18,Haroon Rashid,Male,Ghulam Sadiq,Mamund Bajaur,FATA (HSSC)
-19,Abdur Rashid,Male,Muhammad Raaz Khan,Salarzai Bajaur,FATA (HSSC)
-20,Shahid Ullah,Male,Shah Mahmood Khan,Khar Bajaur,FATA (HSSC)
+S.No.,Name,Gender,Father Name,Domicile,Region, Year
+1,Muhammad Afzaal,Male,Bacha Said,Malakand,KPK (Matric), 2025
+2,Hamza Kamal,Male,Kamal Said,Mardan,KPK (Matric), 2025
+3,Muhammad Tariq,Male,Khan Badshah,Bajaur,KPK (Matric), 2025
+4,Hafsa,Female,Faizan Ahmad,Lakki Marwat,KPK (Matric), 2025
+5,Syed Jawad Ahmad,Male,Imdad Ullah Shah,Lakki Marwat,KPK (Matric), 2025
+6,Husna Bibi,Female,Said Muhammad,Malakand,KPK (Matric), 2025
+7,Sara Siraj,Female,Muhammad Siraj,Charsadda,KPK (Matric), 2025
+8,Muhammad Rasheed,Male,Anwar Iqbal,Lakki Marwat,KPK (Matric), 2025
+9,Mustafa,Male,Sheh Zada,Lakki Marwat,KPK (Matric), 2025
+10,Ibad Ullah,Male,Hazrat Hussain,Alpuri Shangla,KPK (Matric), 2025
+11,Manahil Munir,Female,Muhammad Munir,Chitral Upper,KPK (Matric), 2025
+12,Atta ur Rehman,Male,Muhammad Aslam,Lakki Marwat,KPK (Matric), 2025
+13,Raz Muhammad Khan,Male,Faqeer Muhammad,Dargai Malakand,KPK (Matric), 2025
+14,Abdullah,Male,Muhammad Munir Akhtar,Lakki Marwat,KPK (Matric), 2025
+15,Eshal Nadeem,Female,Nadeem Anwar,Charsadda,KPK (Matric), 2025
+16,Abdur Rahman,Male,Abdul Hamid,Lakki Marwat,KPK (Matric), 2025
+17,Muhammad Aliyan,Male,Hazrat Ali,Lakki Marwat,KPK (Matric), 2025
+18,Nazakat Ullah,Male,Hakim Shah,Lakki Marwat,KPK (Matric), 2025
+19,Hubaib Ahmad ,Male,Nisar Khan,Mardan,KPK (Matric), 2025
+20,Wasiullah Khan,Male,Ihsanullah Khan,Lakki Marwat,KPK (Matric), 2025
+21,Fawad Ullah Khan,Male,Hayat Ullah Khan,Lakki Marwat,KPK (Matric), 2025
+22,Muhammad Ibrahim,Male,Nazir Ahmad,Mardan,KPK (Matric), 2025
+23,Muhammad Rafiq,Male,Arab Khan,Lakki Marwat,KPK (Matric), 2025
+24,Ali Sher,Male,Sher Ali Khan,Nowshera,KPK (Matric), 2025
+25,Muhammad Fawad,Male,Ghulam Dastagir Jan,Lakki Marwat,KPK (Matric), 2025
+26,Musavir Khan,Male,Moatabar Khan,Lakki Marwat,KPK (Matric), 2025
+27,Muhammad Waqar,Male,Muhammad Akbar Khan,Lakki Marwat,KPK (Matric), 2025
+28,Khushboo Begum,Female,Afsar Said,Dargai Malakand,KPK (Matric), 2025
+29,Muhammad Wasif,Male,Muhammad Zarif Khan,Lakki Marwat,KPK (Matric), 2025
+30,Muhammad Talha Nawaz,Male,Haq Nawaz ,Haripur,KPK (Matric), 2025
+31,Shumaila Bibi,Female,Farhad,Charsadda,KPK (Matric), 2025
+32,Roshni Gul,Female,Anber Gul,Charsadda,KPK (Matric), 2025
+33,Kashaf Safdar,Female,Muhammad Safdar Shah,Charsadda,KPK (Matric), 2025
+34,Shayan Sohail,Male,Muhammad Sohail,Peshawar,KPK (Matric), 2025
+35,Syeda Sana Bibi,Female,Imdad Ullah Shah,Lakki Marwat,KPK (Matric), 2025
+36,Muhammad Awais Qarni,Male,Zaki Ullah,Lakki Marwat,KPK (Matric), 2025
+37,Ali Sadiq,Male,Sadiq Khan,Peshawar,KPK (Matric), 2025
+38,Mashal Ghazan,Female,Amir Ghazan,Charsadda,KPK (Matric), 2025
+39,Suffeyan Ahmad,Male,Jamil Ahmad,Abbottabad,KPK (Matric), 2025
+40,Lubna Begum,Male,Shaukat Ali,Charsadda,KPK (Matric), 2025
+41,Umama Sartaj,Female,Sartaj,Tani Charsadda,KPK (Matric), 2025
+42,Mehboob Jalal,Male,Sher Jalal,Chitral,KPK (Matric), 2025
+43,Muhammad Haris,Male,Alamgir Khan,Lakki Marwat,KPK (Matric), 2025
+44,Uzma Bibi,Female,Said Muhammad,Dargai Malakand,KPK (Matric), 2025
+45,Asad Ullah Khan,Male,Ayaz Khan,Lakki Marwat,KPK (Matric), 2025
+46,Muhammad Irshad,Male,Zia ur Rahman,Nowshera,KPK (Matric), 2025
+47,Faizan Ali,Male,Nawab Ali,Lakki Marwat,KPK (Matric), 2025
+48,Asif Siddique,Male,Siddique ur Rahman,Karak,KPK (Matric), 2025
+1,Yaseen Ahmad,Male,Akhtar Ali,Takht Bhai Mardan,KPK (HSSC), 2025
+2,Amna,Female,Sai ur Rehman,Pabbi Nowshera,KPK (HSSC), 2025
+3,Inam Ullah,Male,Bakht Jehan,Alpuri Shangla,KPK (HSSC), 2025
+4,Alyan Khan,Male,Saeed Khan,Malakan,KPK (HSSC), 2025
+5,Muhammad Hanif,Male,Rafi Ullah Khan,Lakki Marwat,KPK (HSSC), 2025
+6,Fasih Ullah,Male,Ihsan Ullah,Lakki Marwat,KPK (HSSC), 2025
+7,Sara Shah,Female,Shah Zul Rahman,Batkhela Malakand,KPK (HSSC), 2025
+8,Muhammad Zakariya,Male,Afsar Ali,Nowshera,KPK (HSSC), 2025
+9,Muhammad Awais Khan,Male,Manzoor Hussain,Batkhela Malakand,KPK (HSSC), 2025
+10,Amir Rahman,Male,Rozi Khan,Buner,KPK (HSSC), 2025
+11,Rafeed Ullah Khan,Male,Ameer Saad Ullah Jan,Kala Khel Bannu,KPK (HSSC), 2025
+12,Abdul Baseer,Male,Liaqat Ali,Barkana Alpuri Shangla,KPK (HSSC), 2025
+13,Sultanat Yar,Male,Muhammad Yar,Adenzai Lower Dir,KPK (HSSC), 2025
+14,Laiba Noor,Female,Noor Muhammad,Swabi,KPK (HSSC), 2025
+15,Muhammad Hubaib,Male,Muhammad Ayaz,Katlang Mardan,KPK (HSSC), 2025
+16,Muhammad Zeeshan,Male,Zir Nawaz Khan,Bannu,KPK (HSSC), 2025
+17,Aiman Qureshi,Female,Shaukat Qureshi,Peshawar,KPK (HSSC), 2025
+18,Waqas Ali,Female,Javed,Mardan,KPK (HSSC), 2025
+19,Aiman,Female,Rovaid Ali,Nowshera,KPK (HSSC), 2025
+20,Jibran Qadeer,Male,Sahib Shah,Khanjar Mardan,KPK (HSSC), 2025
+21,Muhammad Husnain,Male,Akhtar Munir,Lakki Marwat,KPK (HSSC), 2025
+22,Yasir Ali Shah,Male,Rahim Shah,Samar Bagh Dir Lower,KPK (HSSC), 2025
+23,Sana Bibi,Female,Zia ud Din,Lakki Marwat,KPK (HSSC), 2025
+24,Marjan Yousafzai,Female,Noor Bad Shah,Swabi,KPK (HSSC), 2025
+25,Zakir Ullah,Male,Muhammad Saeed,Lakki Marwat,KPK (HSSC), 2025
+26,Yousra Noor,Female,Noor Muhammad,Tangi Charsadda,KPK (HSSC), 2025
+27,Sajid Ullah,Male,Hashim Khan,Lakki Marwat,KPK (HSSC), 2025
+28,Pakeeza Bibi,Female,Mafaz Ali,Swabi,KPK (HSSC), 2025
+29,Abdul Wadood,Male,Ghulam Yaseen,Ghazni Khel Lakki Marwat,KPK (HSSC), 2025
+30,Madeeha Siraj,Female,Muhammad Siraj,Mardan,KPK (HSSC), 2025
+31,Muhammad Shahab,Male,Abdul Wahab,Ghazni Khel Lakki Marwat,KPK (HSSC), 2025
+32,Fiza Amjad,Female,Amjad Ali,Swabi,KPK (HSSC), 2025
+1,Abid Ullah,Male,Sawab Khan,Umar Khel Mohmand,FATA (Matric), 2025
+2,Muhammad Abbas,Male,Zahir Ullah,Mamund Bajaur,FATA (Matric), 2025
+3,Hussain Ahmad,Male,Muhammad Ashfaq,Nawagai Bajaur,FATA (Matric), 2025
+4,Uzair Ahmad,Male,Amir Muhammad,Salarzai Bajaur,FATA (Matric), 2025
+5,Muhammad Jawad,Male,Ibrahim,Khar Bajaur,FATA (Matric), 2025
+6,Adil shah,Male,Said Raham,Mamund Bajaur,FATA (Matric), 2025
+7,Ramazan Khan,Male,Muhammad Said,Khar Bajaur,FATA (Matric), 2025
+8,Sahil Khan,Male,Sher Muhammad,Salarzo Bajaur,FATA (Matric), 2025
+9,Mujtaba Ahmad,Male,Yaqoob Khan,Inayat kalay Mamund Bajaur,FATA (Matric), 2025
+10,Hameed Ullah,Male,Khan Wali,Nawagai Bajaur,FATA (Matric), 2025
+11,Yaseen Anwar,Male,Khan Zada,Khar Bajaur,FATA (Matric), 2025
+12,Awais Khan,Male,Farooq Jan,Mamund Bajaur,FATA (Matric), 2025
+13,Momin Khan,Male,Khan Muhammad,Pashat  Salarzai Bajaur,FATA (Matric), 2025
+14,Abuzar Khan ,Male,Nawab Khan,Shamozo Bajaur,FATA (Matric), 2025
+15,Talha Sabir,Male,Jehangir Khan,Sarra Mena Alizo Bajaur,FATA (Matric), 2025
+16,Wajid Yousaf,Male,Ghulam Yousaf,Nawagai Bajaur,FATA (Matric), 2025
+17,Muhammad Tariq,Male,Nawab,Mamund Bajaur,FATA (Matric), 2025
+18,Zubair Khan,Male,Rozamin Khan,Khar Bajaur,FATA (Matric), 2025
+19,Idrees Khan,Male,Shahid,Nawagai Bajaur,FATA (Matric), 2025
+20,Jawad Yousaf,Male,Ghulam Yousaf,Nawagai Bajaur,FATA (Matric), 2025
+21,Waqas Khan,Male,Anwar Khan,Mamund Bajaur,FATA (Matric), 2025
+22,Fawad Ul Haq,Male,Ihsan Ul Haq,Pashat  Salarzai Bajaur,FATA (Matric), 2025
+23,Zubair Ahmad,Male,Raees Khan,Khar Bajaur,FATA (Matric), 2025
+24,Faheem Khan,Male,Mudir Khan,Nawagai Bajaur,FATA (Matric), 2025
+25,Luqman Zada,Male,Umar Zada,Salarzai Bajaur,FATA (Matric), 2025
+26,Sibghat Ullah,Male,Muhammad Dawood,Nawagai Bajaur,FATA (Matric), 2025
+27,Muhammad Nazir,Male,Mashahoor Khan,Nawagai Bajaur,FATA (Matric), 2025
+28,Ihtisham Khan,Male,Taj Wali Khan,Salarzai Bajaur,FATA (Matric), 2025
+29,Sibghat Ullah,Male,Abdul Wakil,Salarzai Bajaur,FATA (Matric), 2025
+30,Numan Haider,Male,Rahman Ullah,Loi Mamund Bajaur,FATA (Matric), 2025
+1,Hassan Saeed,Male,Gul Rasool,Mamund Bajaur,FATA (HSSC), 2025
+2,Jan Zada,Male,Khoidad Khan,Salarzai Bajaur,FATA (HSSC), 2025
+3,Sohail Khan,Male,Taj Gul,Salarzai Bajaur,FATA (HSSC), 2025
+4,Sulaiman Khan,Male,Muhammad Gul,Khar Bajaur,FATA (HSSC), 2025
+5,Islam ud Din,Male,Usman,Khar Bajaur,FATA (HSSC), 2025
+6,Attaullah,Male,Gul Mula Khan,Khar Bajaur,FATA (HSSC), 2025
+7,Hanif Ullah,Male,Dawood Khan,Salarzai Bajaur,FATA (HSSC), 2025
+8,Abdullah,Male,Gul Bacha,Khar Bajaur,FATA (HSSC), 2025
+9,Umar Farooq,Male,Sahib Gul,Khar Bajaur,FATA (HSSC), 2025
+10,Ihsan Ullah,Male,Saz Mahmood,Barang Bajaur,FATA (HSSC), 2025
+11,Muhammad Fawad,Male,Muhammad Iqbal,Khar Bajaur,FATA (HSSC), 2025
+12,Muhammad Zeeshan,Male,Said Arab Khan,Loi Mamund Bajaur,FATA (HSSC), 2025
+13,Hazrat Bilal,Male,Muhammad Yar Khan,Khar Bajaur,FATA (HSSC), 2025
+14,Maaz ur Rahman,Male,Said Hakim Khan,Khar Bajaur,FATA (HSSC), 2025
+15,Murad Ahmad,Male,Kashar Khan,Salarzai Bajaur,FATA (HSSC), 2025
+16,Sami Ullah,Male,Said Zahir Shah,Khar Bajaur,FATA (HSSC), 2025
+17,Mazhar Ali Shah,Male,Bahadar Shah,Barang Bajaur,FATA (HSSC), 2025
+18,Haroon Rashid,Male,Ghulam Sadiq,Mamund Bajaur,FATA (HSSC), 2025
+19,Abdur Rashid,Male,Muhammad Raaz Khan,Salarzai Bajaur,FATA (HSSC), 2025
+20,Shahid Ullah,Male,Shah Mahmood Khan,Khar Bajaur,FATA (HSSC), 2025
+
