@@ -205,39 +205,34 @@ searchInput.addEventListener('input', function () {
 
 
 searchInput.addEventListener('keydown', function(e){
-  console.log(e.key);
 
   const items = suggestions.querySelectorAll('div');
 
   if (!items.length) return;
 
-  if (e.key === 'ArrowDown') {
-    e.preventDefault();
+  switch(e.key){
 
-    selectedIndex++;
-    if (selectedIndex >= items.length) selectedIndex = 0;
+    case 'ArrowDown':
+      e.preventDefault();
+      selectedIndex = (selectedIndex + 1) % items.length;
+      updateActive(items);
+      break;
 
-    updateActive(items);
-  }
+    case 'ArrowUp':
+      e.preventDefault();
+      selectedIndex = (selectedIndex - 1 + items.length) % items.length;
+      updateActive(items);
+      break;
 
-  else if (e.key === 'ArrowUp') {
-    e.preventDefault();
-
-    selectedIndex--;
-    if (selectedIndex < 0) selectedIndex = items.length - 1;
-
-    updateActive(items);
-  }
-
-  else if (e.key === 'Enter') {
-    e.preventDefault();
-
-    if (selectedIndex >= 0) {
-      showRecord(currentMatches[selectedIndex]);
-    }
+    case 'Enter':
+      e.preventDefault();
+      if(selectedIndex >= 0){
+        showRecord(currentMatches[selectedIndex]);
+      }
+      break;
   }
 });
-
+  
 function updateActive(items){
   removeActive();
 
